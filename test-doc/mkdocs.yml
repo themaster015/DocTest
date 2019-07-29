@@ -1,0 +1,6 @@
+site_name: Test Documentación
+nav:
+- Home: index.md
+- Analisis: analisis.md 
+- Conceptos: conceptos.md 
+theme: readthedocs
